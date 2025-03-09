@@ -1,19 +1,22 @@
-- key: Portfolio
-  value: datphan.me
-  url: https://datphan.me
+- key: Name
+  value: Dat Phan
 - key: Description
   value:
     - I am an IT student
     - Passionate about front end development
     - Eager to learn and grow in the tech industry
   typed: true
+- key: Portfolio
+  value: datphan.me
+  url: "newtab:https://datphan.me"
 - key: Contact
   value:
-    - value: pd.quocdat@gmail.com
+    - key: Email
+      value: pd.quocdat@gmail.com
       url: "mailto:pd.quocdat@gmail.com"
 - key: Socials
   value:
     - value: Linkedin
-      url: https://www.linkedin.com/in/pdqdat
+      url: "newtab:https://www.linkedin.com/in/pdqdat"
     - value: Github
-      url: https://github.com/pdqdat
+      url: "newtab:https://github.com/pdqdat"

@@ -4,7 +4,6 @@ baseurl: /hacked-jekyll
 url: https://pdqdat.github.io
 
 exclude:
-  - LICENSE
   - README.md
   - vendor/
 
@@ -14,6 +13,3 @@ plugins:
 
 sass:
   sourcemap: never
-  
-newtab: true
-quotes: false
