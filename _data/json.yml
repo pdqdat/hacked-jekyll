@@ -3,6 +3,10 @@
 - key: Portfolio
   value: datphan.me
   url: https://datphan.me
+- key: description
+  value:
+    - IT student
+    - Frond-end developer
 - key: Base
   value: HCMC, Vietnam
 - key: Contact
