@@ -1,20 +1,18 @@
-- key: Name
-  value: Dat Phan
 - key: Portfolio
   value: datphan.me
   url: https://datphan.me
 - key: Description
   value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
+    - I am an IT student
+    - Passionate about front end development
+    - Eager to learn and grow in the tech industry
   typed: true
-- key: Base
-  value: HCMC, Vietnam
 - key: Contact
   value:
     - value: pd.quocdat@gmail.com
       url: "mailto:pd.quocdat@gmail.com"
+- key: Socials
+  value:
     - value: Linkedin
       url: https://www.linkedin.com/in/pdqdat
     - value: Github
