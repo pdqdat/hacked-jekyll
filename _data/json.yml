@@ -6,20 +6,17 @@
     - Passionate about front end development
     - Eager to learn and grow in the tech industry
   typed: true
+- key: Resumé
+  value: Update later
 - key: Portfolio
   value: datphan.me
   url: https://datphan.me
-  target: _blank
 - key: Contact
-  value:
-    - key: Email
-      value: pd.quocdat@gmail.com
-      url: "mailto:pd.quocdat@gmail.com"
+  value: pd.quocdat@gmail.com
+  url: "mailto:pd.quocdat@gmail.com"
 - key: Socials
   value:
     - value: Linkedin
       url: https://www.linkedin.com/in/pdqdat
-      target: _blank
     - value: Github
       url: https://github.com/pdqdat
-      target: _blank
