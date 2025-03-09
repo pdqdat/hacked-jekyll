@@ -2,10 +2,11 @@
   value: Dat Phan
 - key: Description
   value:
-    - I am an IT student
-    - Passionate abt. FE dev
-    - Eager to learn...
-    - ...& grow in the tech industry
+    - An IT student
+    - Passionate...
+    - ...about FE development
+    - Eager to learn and grow
+    - ...in the tech industry
   typed: true
 - key: Portfolio
   value: datphan.me
