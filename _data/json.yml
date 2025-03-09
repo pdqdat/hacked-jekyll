@@ -7,8 +7,7 @@
   value: HCMC, Vietnam
 - key: Contact
   value:
-    - key: Email
-      value: pd.quocdat@gmail.com
+    - value: pd.quocdat@gmail.com
       url: "mailto:pd.quocdat@gmail.com"
     - value: Linkedin
       url: https://www.linkedin.com/in/pdqdat
