@@ -8,7 +8,8 @@
   typed: true
 - key: Portfolio
   value: datphan.me
-  url: "newtab:https://datphan.me"
+  url: https://datphan.me
+  target: _blank
 - key: Contact
   value:
     - key: Email
@@ -17,6 +18,8 @@
 - key: Socials
   value:
     - value: Linkedin
-      url: "newtab:https://www.linkedin.com/in/pdqdat"
+      url: https://www.linkedin.com/in/pdqdat
+      target: _blank
     - value: Github
-      url: "newtab:https://github.com/pdqdat"
+      url: https://github.com/pdqdat
+      target: _blank
