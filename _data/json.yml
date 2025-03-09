@@ -3,12 +3,10 @@
 - key: Description
   value:
     - I am an IT student
-    - Passionate abt. FE development
+    - Passionate abt. FE dev
     - Eager to learn...
-    - ...and grow in the tech industry
+    - ...& grow in the tech industry
   typed: true
-- key: Resumé
-  value: Update later
 - key: Portfolio
   value: datphan.me
   url: https://datphan.me
