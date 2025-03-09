@@ -3,10 +3,11 @@
 - key: Portfolio
   value: datphan.me
   url: https://datphan.me
-- key: description
+- key: Description
   value:
-    - IT student
-    - Frond-end developer
+    - Hello!
+    - This tiny website
+    - Looks like JSON
   typed: true
 - key: Base
   value: HCMC, Vietnam
