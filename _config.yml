@@ -1,0 +1,17 @@
+title: pdqdat
+description: pdqdat JSON
+baseurl: /hacked-jekyll
+url: https://pdqdat.github.io
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
